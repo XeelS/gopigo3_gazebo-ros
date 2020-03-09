@@ -1,4 +1,5 @@
 build/
 devel/
 install/
+.vscode/
 .catkin_workspace
