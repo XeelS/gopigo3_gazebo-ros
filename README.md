@@ -1,6 +1,10 @@
 # gopigo3_gazebo-ros
 
+## Installation
+
 Pour installer la simulation, clonez ou téléchargez le zip du repo, placez le dans un dossier quelconque puis lancez le script initial_setup.
+
+## How to run  
 
 Les scripts bash sont :  
 
