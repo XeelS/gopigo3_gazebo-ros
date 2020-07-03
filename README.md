@@ -8,3 +8,7 @@ Les scripts bash sont :
 2. setup.bash : Sert à init le workspace dans votre terminal. À exécuter à chaque fois que vous relancez un terminal et que vous avez besoin d'utiliser la simulation. Il est possible de mettre les commandes contenues dans ce script dans votre .bashrc pour automatiser le process.
 3. run.bash : À lancer dans un terminal pour automatiquement lancer la simulation.
 4. key_control.bash : À lancer dans un autre terminal pour lancer le script de contrôle clavier.
+
+## Collaborators
+@Achraf99Jday
+@tripincloud
