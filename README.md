@@ -1,5 +1,7 @@
 # gopigo3_gazebo-ros
 
+   ![Alt text](Robot.png)
+
 ## Installation
 
 Pour installer la simulation, clonez ou téléchargez le zip du repo, placez le dans un dossier quelconque puis lancez le script initial_setup.
