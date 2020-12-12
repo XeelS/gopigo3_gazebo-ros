@@ -17,5 +17,4 @@ Les scripts bash sont :
 
 ## Collaborators
 @Achraf99Jday
-
 @tripincloud
